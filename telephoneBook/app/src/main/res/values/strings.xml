@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Telephone Book</string>
+    <string name="textView">Добавить/изменить запись</string>
+    <string name="editTextName">Имя</string>
+    <string name="editTextLastName">Фамилия</string>
+    <string name="editTextPhone">Номер телефона</string>
+    <string name="insertUserBtn">Добавить запись</string>
+    <string name="addUserBtn">Добавить человека</string>
+    <string name="textViewInfoName">TextView</string>
+    <string name="textViewInfoLastName">TextView</string>
+    <string name="textViewInfoPhone">TextView</string>
+    <string name="editUserInfo">Редактирвать</string>
+    <string name="removeUserInfo">Удалить</string>
+</resources>

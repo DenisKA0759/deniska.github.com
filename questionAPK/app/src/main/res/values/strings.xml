@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Questions Game</string>
+    <string name="question0">Это приложение написано на Java?</string>tr
+    <string name="question1">"Вечный шах" - может возникнуть на шахматной доске?</string>tr
+    <string name="question2">Что построил Джек в стихотворении - коммунизм?</string>fal
+    <string name="question3">Каршеринг это - брачный танец вороны?</string>fal
+    <string name="question4">Может ли крупье в казино достать платок из кармана</string>fal
+    <string name="question5">“Пятиалтынный” - так раньше называли 15 копеек?</string>tr
+    <string name="question6">Москва столица России?</string>tr
+    <string name="question7">Огурец, может быть морским?</string>tr
+    <string name="question8">Мандолина появилась в Испании?</string>fal
+    <string name="question9">Стрела может быть в конструкции башенного крана?</string>tr
+    <string name="yesBtn">Да</string>
+    <string name="noBtn">Нет</string>
+    <string name="correct">Правильно</string>
+    <string name="incorrect">Неправильно</string>
+    <string name="answerButton">Подсказка</string>
+    <string name="repeatBtn">повторить тест</string>
+    <string name="closeBtn">Завершить</string>
+    <string name="textView">Правильный ответ</string>
+    <string name="answer">Подсказка</string>
+
+</resources>
